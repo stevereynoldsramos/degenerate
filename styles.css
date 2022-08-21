@@ -352,6 +352,12 @@ ul.services {
     max-width: 480px;
   }
 
+  h3.title {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+  }
+
   p {
     font-family: "SerialB-Regular";
     font-style: normal;

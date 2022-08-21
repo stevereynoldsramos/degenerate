@@ -326,7 +326,6 @@ ul.services {
   #shop {
     grid-column: 1 / 7;
     background-color: #FFB511;
-    padding-top: 14px;
     padding-bottom: 24px;
     margin-top: 24px;
     margin-left: 12px;
@@ -336,7 +335,6 @@ ul.services {
   #follow {
     grid-column: 1 / 7;
     background-color: #FFB511;
-    padding-top: 14px;
     padding-bottom: 24px;
     margin-top: 24px;
     margin-left: 12px;
@@ -347,7 +345,7 @@ ul.services {
     font-family: "SerialB-Regular";
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 108.1%;
     text-transform: uppercase;
     color: #000000;
@@ -358,7 +356,7 @@ ul.services {
     font-family: "SerialB-Regular";
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 108.1%;
     text-transform: uppercase;
     color: #000000;
@@ -368,7 +366,7 @@ ul.services {
     font-family: "SerialB-Regular";
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 108.1%;
     text-transform: uppercase;
     color: #000000;
@@ -378,7 +376,7 @@ ul.services {
     font-family: "SerialB-Regular";
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 108.1%;
     text-transform: uppercase;
     color: #000000;

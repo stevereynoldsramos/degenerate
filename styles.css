@@ -15,7 +15,7 @@
   src: url("assets/fonts/SerialBTrial-Bold.otf");
 }
 
-@media (min-width: 1101px) {
+@media (min-width: 1001px) {
 
 /* base layout settings */
 
@@ -260,7 +260,7 @@ ul.services {
   }
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1000px) {
   * {
     margin: 0;
     padding: 0;
@@ -310,13 +310,17 @@ ul.services {
   #services {
     grid-column: 1 / 7;
     background-color: #FFB511;
-    margin-top: 32px;
+    margin-top: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
   }
 
   #brands {
     grid-column: 1 / 7;
     background-color: #FFB511;
-    margin-top: 32px;
+    margin-top: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
   }
 
   #shop {
@@ -324,7 +328,9 @@ ul.services {
     background-color: #FFB511;
     padding-top: 14px;
     padding-bottom: 24px;
-    margin-top: 32px;
+    margin-top: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
   }
 
   #follow {
@@ -332,7 +338,9 @@ ul.services {
     background-color: #FFB511;
     padding-top: 14px;
     padding-bottom: 24px;
-    margin-top: 32px;
+    margin-top: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
   }
 
   h3 {

@@ -74,7 +74,7 @@
 
   #image {
     grid-column: 5 / 17;
-    grid-row: 1 / 9;
+    grid-row: 1 / 8;
     background-color: #000000;
     border-bottom: solid 2px #000000;
   }
@@ -87,27 +87,27 @@
 
   #services {
     grid-column: 5 / 9;
-    grid-row: 9 / 13;
+    grid-row: 8 / 13;
     background-color: #FFB511;
   }
 
   #brands {
     grid-column: 9 / 11;
-    grid-row: 9 / 13;
+    grid-row: 8 / 13;
     background-color: #FFB511;
     margin-left: -24px;
   }
 
   #shop {
     grid-column: 11 / 13;
-    grid-row: 9 / 13;
+    grid-row: 8 / 13;
     background-color: #FFB511;
     margin-left: -24px;
   }
 
   #follow {
     grid-column: 13 / 17;
-    grid-row: 9 / 13;
+    grid-row: 8 / 13;
     background-color: #FFB511;
   }
 
